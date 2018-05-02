@@ -1,4 +1,4 @@
-# Sentiment-Analysis-LSTM-CNN-keras
+# Sentiment Analysis using LSTM and CNN
 A simple Sentiment Analysis of Movie reviews (IMBD) with two different approaches  of LSTM and CNN.
 
 1 .
